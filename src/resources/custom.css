@@ -53,14 +53,4 @@
   /*
 }*/
 
-const style = {
-  theme: "light",
-  brand: "orange",
-  accent: "orange",
-  neutral: "gray",
-  border: "playful",
-  solid: "contrast",
-  solidStyle: "flat",
-  surface: "translucent",
-  transition: "all",
-}
+/* Theme constants moved to src/resources/theme.ts */
