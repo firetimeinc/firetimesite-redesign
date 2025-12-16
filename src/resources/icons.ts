@@ -29,7 +29,7 @@ import {
   SiSupabase,
 } from "react-icons/si";
 
-import { FaDiscord, FaGithub, FaLinkedin, FaX, FaThreads, FaMastodon, FaInstagram, FaBluesky, FaXTwitter, FaFacebook, FaPinterest, FaWhatsapp, FaReddit, FaTelegram, } from "react-icons/fa6";
+import { FaDiscord, FaGithub, FaLinkedin, FaX, FaTwitch, FaYoutube, FaThreads, FaMastodon, FaInstagram, FaBluesky, FaXTwitter, FaFacebook, FaPinterest, FaWhatsapp, FaReddit, FaTelegram, } from "react-icons/fa6";
 
 export const iconLibrary: Record<string, IconType> = {
   arrowUpRight: HiArrowUpRight,
@@ -47,6 +47,8 @@ export const iconLibrary: Record<string, IconType> = {
   eye: HiOutlineEye,
   eyeOff: HiOutlineEyeSlash,
   github: FaGithub,
+  youtube: FaYoutube,
+  twitch: FaTwitch,
   linkedin: FaLinkedin,
   bluesky: FaBluesky,
   mastodon: FaMastodon,
