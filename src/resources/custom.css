@@ -52,3 +52,15 @@
   --scheme-neutral-600-50: rgba(137,152,159,0.5);
   /*
 }*/
+
+const style = {
+  theme: "light",
+  brand: "orange",
+  accent: "orange",
+  neutral: "gray",
+  border: "playful",
+  solid: "contrast",
+  solidStyle: "flat",
+  surface: "translucent",
+  transition: "all",
+}
