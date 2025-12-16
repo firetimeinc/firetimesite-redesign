@@ -174,8 +174,8 @@ const about: About = {
             },
         ],
     },
-    things_i_made: {
-        display: true, // set to false to hide this section
+    technical: {
+        display: false, // set to false to hide this section
         title: "Things I Made (and am making)",
         skills: [
             {
